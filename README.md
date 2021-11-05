@@ -32,4 +32,6 @@ footer
 
 ---
 
+![awesome](medias/ok.gif)
+
 [epic cheat sheet](https://www.markdownguide.org/cheat-sheet/)
